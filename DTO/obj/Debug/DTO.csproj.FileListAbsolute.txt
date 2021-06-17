@@ -1,0 +1,12 @@
+D:\QL_NONGSAN\DTO\bin\Debug\DTO.dll
+D:\QL_NONGSAN\DTO\bin\Debug\DTO.pdb
+D:\QL_NONGSAN\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\QL_NONGSAN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QL_NONGSAN\DTO\obj\Debug\DTO.dll
+D:\QL_NONGSAN\DTO\obj\Debug\DTO.pdb
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DTO\bin\Debug\DTO.dll
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DTO\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DTO\obj\Debug\DTO.dll
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DTO\obj\Debug\DTO.pdb

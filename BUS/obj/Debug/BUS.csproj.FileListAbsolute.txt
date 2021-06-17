@@ -1,0 +1,22 @@
+D:\QL_NONGSAN\BUS\bin\Debug\BUS.dll
+D:\QL_NONGSAN\BUS\bin\Debug\BUS.pdb
+D:\QL_NONGSAN\BUS\bin\Debug\DAO.dll
+D:\QL_NONGSAN\BUS\bin\Debug\DTO.dll
+D:\QL_NONGSAN\BUS\bin\Debug\DAO.pdb
+D:\QL_NONGSAN\BUS\bin\Debug\DTO.pdb
+D:\QL_NONGSAN\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\QL_NONGSAN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\QL_NONGSAN\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\QL_NONGSAN\BUS\obj\Debug\BUS.dll
+D:\QL_NONGSAN\BUS\obj\Debug\BUS.pdb
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\bin\Debug\BUS.dll
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\bin\Debug\BUS.pdb
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\bin\Debug\DAO.dll
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\bin\Debug\DTO.dll
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\bin\Debug\DAO.pdb
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\obj\Debug\BUS.dll
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\BUS\obj\Debug\BUS.pdb

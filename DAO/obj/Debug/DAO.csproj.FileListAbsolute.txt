@@ -1,0 +1,18 @@
+D:\QL_NONGSAN\DAO\bin\Debug\DAO.dll
+D:\QL_NONGSAN\DAO\bin\Debug\DAO.pdb
+D:\QL_NONGSAN\DAO\bin\Debug\DTO.dll
+D:\QL_NONGSAN\DAO\bin\Debug\DTO.pdb
+D:\QL_NONGSAN\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\QL_NONGSAN\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\QL_NONGSAN\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\QL_NONGSAN\DAO\obj\Debug\DAO.dll
+D:\QL_NONGSAN\DAO\obj\Debug\DAO.pdb
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DAO\bin\Debug\DAO.dll
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DAO\bin\Debug\DAO.pdb
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DAO\bin\Debug\DTO.dll
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DAO\bin\Debug\DTO.pdb
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DAO\obj\Debug\DAO.csproj.CopyComplete
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DAO\obj\Debug\DAO.dll
+D:\LẬP TRÌNH QUẢN LÝ\QL_NONGSAN\DAO\obj\Debug\DAO.pdb
